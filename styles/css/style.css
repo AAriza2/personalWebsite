@@ -1,0 +1,35 @@
+html{
+    background: url('https://atgbcentral.com/data/out/46/4300691-image-background.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: gold;
+}
+
+#mainPage{
+    font-family: 'Biryani', sans-serif;
+    font-size: 60px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#secondPage{
+    background-color: transparent;
+    border: 2px solid gold;
+    border-radius: 13px;
+    padding: 16px;
+    margin-top: 50px;
+}
